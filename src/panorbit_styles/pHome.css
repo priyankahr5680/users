@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+    background-size: cover;
+}
+
+
+
+.profile{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+}
+.profile1_details img{
+    border-radius: 50%;
+    margin-left: 40px;
+}
+.profile1{
+    display: flex;
+
+}
+.priyanka{
+    display: flex;
+    justify-content: space-around;
+}
+.profile1_details1{
+display: flex;
+align-items: center;
+}
+.profile1_details1 img{
+    border-radius: 50%;
+    margin-top: 10px;
+}
+.profh1 h2{
+padding-top: 20px;
+}
+.Profile_address{
+    margin-left: 20px;
+}
+.map img{
+    margin-left: 20px;
+}

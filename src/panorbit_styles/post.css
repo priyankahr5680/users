@@ -1,0 +1,16 @@
+
+.post{
+   background-color: white;
+   background-size: cover;
+   height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+}
+.past_data h1{
+    margin-top: 50%;
+    font-style:oblique;
+    color:gainsboro
+}
+.profile_navbar{
+    
+}
