@@ -26,7 +26,9 @@ const LandingPages = () => {
                     <div className="user_account">
                       <a onClick={()=>{handle(data.id)}} href=""> <img width="50" height="50" src={data.profilepicture} alt="" />  </a>
                       <a onClick={()=>{handle(data.id)}} href=""> <h2>{data.name}</h2>  </a>
+                      
                     </div>
+                    <hr />
                 </div>
             ))} 
 

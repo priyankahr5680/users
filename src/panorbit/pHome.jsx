@@ -29,8 +29,8 @@ const PHome = () => {
                <h2>Profile</h2>
                </div>
                <div className='profile1_details1'>
-                   <img width="100" height="100px" src="https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1001.jpeg" alt="" />
-                   <h2>Leanne Graham</h2>
+                   <img width="50" height="50px" src="https://panorbit.in/wp-content/uploads/2019/hotlink-ok/1001.jpeg" alt="" />
+                   <h2 style={{fontSize:"15px",marginLeft:"20px"}}>Leanne Graham</h2>
                    </div>   
                </div>
                <hr /> 
